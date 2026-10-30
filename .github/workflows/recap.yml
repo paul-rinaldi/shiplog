@@ -1,0 +1,25 @@
+name: weekly recap email
+
+on:
+  schedule:
+    - cron: "47 13 * * 1"   # Mondays ~7:47am Central (13:47 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: send
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RECAP_TO: ${{ secrets.RECAP_TO }}
+          RECAP_FROM: ${{ vars.RECAP_FROM }}
+        run: node scripts/recap.mjs

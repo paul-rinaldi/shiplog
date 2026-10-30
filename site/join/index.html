@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Join Shiplog</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=Big+Shoulders+Stencil+Display:wght@800&family=Big+Shoulders+Text:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/join/join.css">
+</head>
+<body>
+<main class="ticket">
+  <h1 class="wordmark" id="title">Shiplog</h1>
+  <p class="lede">Get your GitHub on the crew leaderboard.</p>
+
+  <div class="qr" id="qr" role="img" aria-label="QR code for this page"></div>
+  <p class="scan">Scan to join</p>
+
+  <ol class="steps">
+    <li>Tap <b>Join with GitHub</b> and sign in.</li>
+    <li>Hit <b>Create</b> on the form. Your username is taken from your account, so nobody can sign you up but you.</li>
+    <li>A bot opens a pull request. Once it's merged, you show up within a few hours.</li>
+  </ol>
+
+  <a class="join big" id="go" href="#">Join with GitHub</a>
+  <p class="tip">Do most of your work in private repos? Turn on <b>Include private contributions on my profile</b> in your GitHub profile settings, or you'll look asleep.</p>
+
+  <nav class="actions">
+    <a href="/">See the board</a>
+    <button type="button" id="print">Print a poster</button>
+  </nav>
+</main>
+<script src="/qr.js"></script>
+<script src="/join/join.js"></script>
+</body>
+</html>

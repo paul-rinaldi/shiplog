@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shiplog</title>
+<meta name="description" content="Who in the crew is actually shipping.">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=Big+Shoulders+Stencil+Display:wght@800&family=Big+Shoulders+Text:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="masthead">
+  <h1 class="wordmark" id="title">Shiplog</h1>
+  <p class="tagline" id="tagline">who's actually shipping</p>
+  <div class="switch" role="tablist" aria-label="Time window">
+    <button role="tab" aria-selected="true" data-win="week">This week</button>
+    <button role="tab" aria-selected="false" data-win="month">Last 30 days</button>
+  </div>
+</header>
+
+<main>
+  <section class="flags" id="flags" aria-label="Awards"></section>
+
+  <section class="board" aria-label="Leaderboard">
+    <div class="board-head" aria-hidden="true">
+      <span>Pos</span><span>Crew</span>
+      <span class="num">Shipped</span><span class="num">Reviews</span><span class="num">Commits</span>
+      <span class="num">Streak</span><span>12 weeks</span><span class="num">Score</span>
+    </div>
+    <ol id="rows"></ol>
+    <p class="empty" id="empty" hidden></p>
+  </section>
+</main>
+
+<footer class="foot">
+  <a class="join" href="/join/">Join the crew</a>
+  <details>
+    <summary>How the score works</summary>
+    <p id="scoring"></p>
+  </details>
+  <p class="updated" id="updated"></p>
+</footer>
+
+<script src="/app.js" defer></script>
+</body>
+</html>

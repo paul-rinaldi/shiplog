@@ -1,0 +1,61 @@
+name: join request
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: join
+  cancel-in-progress: false
+
+jobs:
+  join:
+    if: contains(github.event.issue.labels.*.name, 'join')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Untrusted issue text is only ever passed through env vars, never
+      # pasted into a shell command, so it can't inject anything.
+      - name: add issue author to friends.json
+        id: join
+        env:
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_AUTHOR_TYPE: ${{ github.event.issue.user.type }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/join.mjs
+
+      - name: open pull request
+        if: steps.join.outputs.action == 'add'
+        env:
+          LOGIN: ${{ steps.join.outputs.login }}
+          MESSAGE: ${{ steps.join.outputs.message }}
+        run: |
+          branch="join/$LOGIN"
+          git config user.name  "shiplog-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add friends.json
+          git commit -m "Add @$LOGIN to the crew"
+          git push --force origin "$branch"
+          url=$(gh pr create --head "$branch" --title "Add @$LOGIN to the crew" \
+                --body "$MESSAGE Closes #$ISSUE.")
+          gh issue comment "$ISSUE" --body "$MESSAGE Waiting on a maintainer to merge: $url"
+
+      - name: reply and close
+        if: steps.join.outputs.action != 'add'
+        env:
+          MESSAGE: ${{ steps.join.outputs.message }}
+        run: gh issue close "$ISSUE" --comment "$MESSAGE"

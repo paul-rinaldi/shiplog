@@ -1,0 +1,16 @@
+{
+  "title": "SHIPLOG",
+  "tagline": "who's actually shipping",
+  "repo": "YOUR_GITHUB_USERNAME/shiplog",
+  "siteUrl": "https://ship.example.com",
+  "scoring": {
+    "mergedPR": 5,
+    "review": 3,
+    "openedPR": 2,
+    "issue": 1,
+    "commit": 1,
+    "private": 1,
+    "streakBonusPerDay": 0.02,
+    "streakBonusMax": 0.5
+  }
+}

@@ -1,0 +1,18 @@
+name: Join the crew
+description: Put your GitHub on the Shiplog leaderboard
+title: Join the crew
+labels: [join]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your GitHub username is taken from the account that opens this issue, so you can only add yourself.
+        A bot will open a pull request; once it's merged you'll show up within a few hours.
+  - type: input
+    id: display_name
+    attributes:
+      label: Display name
+      description: What the board should call you. Leave blank to use your GitHub name.
+      placeholder: Paul
+    validations:
+      required: false
