@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T05:38:07.093Z",
+ "updatedAt": "2026-10-31T19:17:05.567Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -23,23 +23,23 @@
    "longestStreak": 7,
    "week": {
     "commits": 9,
-    "openedPRs": 0,
+    "openedPRs": 1,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
     "private": 9,
-    "score": 20,
+    "score": 22,
     "multiplier": 1.06,
     "rankDelta": null
    },
    "month": {
     "commits": 9,
-    "openedPRs": 0,
+    "openedPRs": 1,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
     "private": 40,
-    "score": 53,
+    "score": 55,
     "multiplier": 1.06,
     "rankDelta": null
    },
@@ -127,7 +127,7 @@
     0,
     2,
     7,
-    3
+    5
    ]
   },
   {
@@ -135,28 +135,28 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 0,
+   "streak": 1,
    "longestStreak": 1,
    "week": {
-    "commits": 0,
+    "commits": 2,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 0,
-    "multiplier": 1,
+    "score": 2,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "month": {
-    "commits": 3,
+    "commits": 5,
     "openedPRs": 1,
     "mergedPRs": 1,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 10,
-    "multiplier": 1,
+    "score": 12,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "heat": [
@@ -243,7 +243,7 @@
     0,
     0,
     0,
-    0
+    4
    ]
   },
   {
