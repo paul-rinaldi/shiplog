@@ -11,6 +11,8 @@
     if (repo) {
       document.getElementById("go").href =
         `https://github.com/${repo}/issues/new?template=join.yml&title=${encodeURIComponent("Join the crew")}`;
+      document.getElementById("leave").href =
+        `https://github.com/${repo}/issues/new?template=leave.yml&title=${encodeURIComponent("Leave the crew")}`;
     }
   } catch {}
 })();

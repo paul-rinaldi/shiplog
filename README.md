@@ -5,6 +5,7 @@ A leaderboard of who in the crew is actually shipping. It's built from public Gi
 ```
 cron (every 3h) → GitHub Action fetches stats → commits site/data.json → Cloudflare Pages redeploys
 QR code → /join → "Join the crew" issue → bot opens a PR → you merge → they're on the board
+"Leave the crew" issue → bot removes them right away
 Monday morning → Action emails the weekly recap via Resend
 ```
 
@@ -57,6 +58,7 @@ Private-repo work only shows up (as a plain count with no repo names) if each pe
 - **Nobody hands over a token.** Everything comes from public GitHub data.
 - **People can only add themselves.** The join bot uses the issue *author's* login and never reads a username from issue text. Display names are stripped to letters, numbers and basic punctuation.
 - **Issue text never touches a shell.** It's only passed to the scripts through environment variables, so it can't inject commands.
+- **Anyone can leave without approval.** The leave bot only removes the issue *author*, then refreshes the board. Past commits still show the old entry in git history.
 - **You approve every join.** The bot only opens a PR, and `validate.yml` checks every PR that touches `friends.json`.
 - **The site is static**, with a strict Content-Security-Policy (`site/_headers`): there's no inline script, no third-party JS, and names are rendered as text, never HTML.
 - **Email addresses and the Resend key stay in Actions secrets**, and each recap goes out as its own email so nobody sees the others' addresses.

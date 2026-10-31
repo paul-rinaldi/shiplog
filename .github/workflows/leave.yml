@@ -1,0 +1,55 @@
+name: leave request
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  actions: write
+  contents: write
+  issues: write
+
+concurrency:
+  group: leave
+  cancel-in-progress: false
+
+jobs:
+  leave:
+    if: contains(github.event.issue.labels.*.name, 'leave')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: remove issue author from friends.json
+        id: leave
+        env:
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+        run: node scripts/leave.mjs
+
+      # Leaving needs no approval. The script can only ever remove the issue
+      # author, so this commits straight to main.
+      - name: commit removal
+        if: steps.leave.outputs.action == 'remove'
+        env:
+          LOGIN: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name  "shiplog-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add friends.json site/history.json
+          git commit -m "Remove @$LOGIN from the crew"
+          git pull --rebase origin main
+          git push
+          # Commits made with the Actions token don't fire push events.
+          gh workflow run update.yml
+
+      - name: reply and close
+        env:
+          MESSAGE: ${{ steps.leave.outputs.message }}
+        run: gh issue close "$ISSUE" --comment "$MESSAGE"

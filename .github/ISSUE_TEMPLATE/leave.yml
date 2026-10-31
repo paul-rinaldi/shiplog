@@ -1,0 +1,10 @@
+name: Leave the crew
+description: Take your GitHub off the Shiplog leaderboard
+title: Leave the crew
+labels: [leave]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your GitHub username is taken from the account that opens this issue, so you can only remove yourself.
+        Just hit **Create**. A bot removes you right away, no approval needed, and you'll be off the board within a few minutes.
