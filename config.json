@@ -2,7 +2,7 @@
   "title": "SHIPLOG",
   "tagline": "who's actually shipping",
   "repo": "paul-rinaldi/shiplog",
-  "siteUrl": "https://ship.example.com",
+  "siteUrl": "https://shiplog-6cx.pages.dev",
   "scoring": {
     "mergedPR": 5,
     "review": 3,
