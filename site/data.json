@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T00:43:43.539Z",
+ "updatedAt": "2026-11-02T21:42:32.130Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -135,28 +135,28 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 0,
+   "streak": 1,
    "longestStreak": 1,
    "week": {
-    "commits": 2,
-    "openedPRs": 0,
-    "mergedPRs": 0,
+    "commits": 4,
+    "openedPRs": 2,
+    "mergedPRs": 2,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 2,
-    "multiplier": 1,
+    "score": 18,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "month": {
-    "commits": 5,
-    "openedPRs": 1,
-    "mergedPRs": 1,
+    "commits": 7,
+    "openedPRs": 3,
+    "mergedPRs": 3,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 12,
-    "multiplier": 1,
+    "score": 29,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "heat": [
@@ -243,7 +243,7 @@
     0,
     4,
     0,
-    0
+    4
    ]
   },
   {
@@ -367,28 +367,28 @@
    "name": "Luke Vang",
    "avatar": "https://avatars.githubusercontent.com/u/326643588?v=4",
    "url": "https://github.com/Luke-V-Stars",
-   "streak": 0,
+   "streak": 1,
    "longestStreak": 2,
    "week": {
-    "commits": 2,
+    "commits": 3,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 2,
-    "multiplier": 1,
+    "score": 3,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "month": {
-    "commits": 10,
+    "commits": 11,
     "openedPRs": 2,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 14,
-    "multiplier": 1,
+    "score": 15,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "heat": [
@@ -475,7 +475,7 @@
     0,
     0,
     0,
-    0
+    2
    ]
   }
  ]
