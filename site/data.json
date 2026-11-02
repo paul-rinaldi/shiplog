@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T00:06:47.760Z",
+ "updatedAt": "2026-11-02T00:43:43.539Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -19,7 +19,7 @@
    "name": "Paul",
    "avatar": "https://avatars.githubusercontent.com/u/9328123?u=8ebffba57d12dc983a17f19cb51e549150645f55&v=4",
    "url": "https://github.com/paul-rinaldi",
-   "streak": 3,
+   "streak": 0,
    "longestStreak": 7,
    "week": {
     "commits": 9,
@@ -28,8 +28,8 @@
     "reviews": 0,
     "issues": 1,
     "private": 0,
-    "score": 13,
-    "multiplier": 1.06,
+    "score": 12,
+    "multiplier": 1,
     "rankDelta": null
    },
    "month": {
@@ -38,13 +38,12 @@
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
-    "private": 40,
-    "score": 55,
-    "multiplier": 1.06,
+    "private": 36,
+    "score": 48,
+    "multiplier": 1,
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     2,
     7,
     5,
+    0,
     0
    ]
   },
@@ -135,7 +135,7 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 1,
+   "streak": 0,
    "longestStreak": 1,
    "week": {
     "commits": 2,
@@ -145,7 +145,7 @@
     "issues": 0,
     "private": 0,
     "score": 2,
-    "multiplier": 1.02,
+    "multiplier": 1,
     "rankDelta": null
    },
    "month": {
@@ -156,11 +156,10 @@
     "issues": 0,
     "private": 0,
     "score": 12,
-    "multiplier": 1.02,
+    "multiplier": 1,
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     0,
     0,
     4,
+    0,
     0
    ]
   },
@@ -276,7 +276,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -392,7 +392,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -470,6 +469,7 @@
     0,
     0,
     3,
+    0,
     0,
     0,
     0,
