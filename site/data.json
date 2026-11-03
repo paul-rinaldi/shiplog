@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T21:42:32.130Z",
+ "updatedAt": "2026-11-03T06:45:12.671Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -38,13 +38,12 @@
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
-    "private": 36,
-    "score": 48,
+    "private": 35,
+    "score": 47,
     "multiplier": 1,
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     7,
     5,
     0,
+    0,
     0
    ]
   },
@@ -160,7 +160,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,7 +242,8 @@
     0,
     4,
     0,
-    4
+    4,
+    0
    ]
   },
   {
@@ -276,7 +276,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -370,13 +370,13 @@
    "streak": 1,
    "longestStreak": 2,
    "week": {
-    "commits": 3,
+    "commits": 1,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 3,
+    "score": 1,
     "multiplier": 1.02,
     "rankDelta": null
    },
@@ -392,7 +392,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,7 +474,8 @@
     0,
     0,
     0,
-    2
+    2,
+    0
    ]
   }
  ]
