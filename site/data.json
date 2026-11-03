@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T06:45:12.671Z",
+ "updatedAt": "2026-11-03T17:01:50.370Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -135,28 +135,28 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 1,
-   "longestStreak": 1,
+   "streak": 2,
+   "longestStreak": 2,
    "week": {
-    "commits": 4,
-    "openedPRs": 2,
-    "mergedPRs": 2,
-    "reviews": 0,
-    "issues": 0,
-    "private": 0,
-    "score": 18,
-    "multiplier": 1.02,
-    "rankDelta": null
-   },
-   "month": {
-    "commits": 7,
+    "commits": 5,
     "openedPRs": 3,
     "mergedPRs": 3,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 29,
-    "multiplier": 1.02,
+    "score": 27,
+    "multiplier": 1.04,
+    "rankDelta": null
+   },
+   "month": {
+    "commits": 8,
+    "openedPRs": 4,
+    "mergedPRs": 4,
+    "reviews": 0,
+    "issues": 0,
+    "private": 0,
+    "score": 37,
+    "multiplier": 1.04,
     "rankDelta": null
    },
    "heat": [
@@ -243,7 +243,7 @@
     4,
     0,
     4,
-    0
+    2
    ]
   },
   {
@@ -367,28 +367,28 @@
    "name": "Luke Vang",
    "avatar": "https://avatars.githubusercontent.com/u/326643588?v=4",
    "url": "https://github.com/Luke-V-Stars",
-   "streak": 1,
+   "streak": 2,
    "longestStreak": 2,
    "week": {
-    "commits": 1,
+    "commits": 4,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 1,
-    "multiplier": 1.02,
+    "score": 4,
+    "multiplier": 1.04,
     "rankDelta": null
    },
    "month": {
-    "commits": 11,
+    "commits": 14,
     "openedPRs": 2,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 15,
-    "multiplier": 1.02,
+    "score": 19,
+    "multiplier": 1.04,
     "rankDelta": null
    },
    "heat": [
@@ -468,14 +468,14 @@
     0,
     0,
     3,
+    1,
     0,
     0,
     0,
     0,
     0,
-    0,
-    2,
-    0
+    3,
+    1
    ]
   }
  ]
