@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:16:49.817Z",
+ "updatedAt": "2026-11-04T21:19:58.474Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -135,28 +135,28 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 2,
-   "longestStreak": 2,
+   "streak": 3,
+   "longestStreak": 3,
    "week": {
-    "commits": 6,
+    "commits": 11,
     "openedPRs": 3,
     "mergedPRs": 3,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 28,
-    "multiplier": 1.04,
+    "score": 34,
+    "multiplier": 1.06,
     "rankDelta": null
    },
    "month": {
-    "commits": 9,
+    "commits": 14,
     "openedPRs": 4,
     "mergedPRs": 4,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 38,
-    "multiplier": 1.04,
+    "score": 45,
+    "multiplier": 1.06,
     "rankDelta": null
    },
    "heat": [
@@ -242,8 +242,8 @@
     4,
     0,
     4,
-    3,
-    0
+    6,
+    2
    ]
   },
   {
@@ -252,7 +252,7 @@
    "avatar": "https://avatars.githubusercontent.com/u/326585799?v=4",
    "url": "https://github.com/vperez-stars",
    "streak": 0,
-   "longestStreak": 5,
+   "longestStreak": 2,
    "week": {
     "commits": 0,
     "openedPRs": 0,
@@ -309,11 +309,11 @@
     0,
     0,
     0,
-    45,
-    9,
+    34,
+    5,
+    0,
     1,
-    1,
-    14,
+    2,
     0,
     0,
     0,
