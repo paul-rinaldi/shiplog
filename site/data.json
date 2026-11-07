@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T06:40:42.550Z",
+ "updatedAt": "2026-11-07T05:55:47.177Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -22,15 +22,15 @@
    "streak": 0,
    "longestStreak": 7,
    "week": {
-    "commits": 7,
+    "commits": 2,
     "openedPRs": 1,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
     "private": 0,
-    "score": 10,
+    "score": 5,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": -2
    },
    "month": {
     "commits": 9,
@@ -41,10 +41,9 @@
     "private": 35,
     "score": 47,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": -1
    },
    "heat": [
-    0,
     0,
     4,
     10,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -135,7 +135,7 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 4,
+   "streak": 0,
    "longestStreak": 4,
    "week": {
     "commits": 19,
@@ -144,9 +144,9 @@
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 43,
-    "multiplier": 1.08,
-    "rankDelta": null
+    "score": 40,
+    "multiplier": 1,
+    "rankDelta": 1
    },
    "month": {
     "commits": 22,
@@ -155,12 +155,11 @@
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 54,
-    "multiplier": 1.08,
-    "rankDelta": null
+    "score": 50,
+    "multiplier": 1,
+    "rankDelta": 2
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     6,
     7,
     3,
+    0,
     0
    ]
   },
@@ -262,7 +262,7 @@
     "private": 0,
     "score": 0,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": 0
    },
    "month": {
     "commits": 3,
@@ -273,10 +273,9 @@
     "private": 0,
     "score": 5,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -367,32 +367,31 @@
    "name": "Luke Vang",
    "avatar": "https://avatars.githubusercontent.com/u/326643588?v=4",
    "url": "https://github.com/Luke-V-Stars",
-   "streak": 1,
+   "streak": 2,
    "longestStreak": 2,
    "week": {
-    "commits": 13,
+    "commits": 15,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 13,
-    "multiplier": 1.02,
-    "rankDelta": null
+    "score": 16,
+    "multiplier": 1.04,
+    "rankDelta": 1
    },
    "month": {
-    "commits": 22,
+    "commits": 21,
     "openedPRs": 2,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 27,
-    "multiplier": 1.02,
-    "rankDelta": null
+    "score": 26,
+    "multiplier": 1.04,
+    "rankDelta": -1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,6 +474,7 @@
     8,
     0,
     3,
+    2,
     0
    ]
   }
