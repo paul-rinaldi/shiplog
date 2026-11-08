@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T12:57:32.558Z",
+ "updatedAt": "2026-11-08T00:33:46.566Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -22,13 +22,13 @@
    "streak": 0,
    "longestStreak": 7,
    "week": {
-    "commits": 2,
-    "openedPRs": 1,
+    "commits": 0,
+    "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
-    "issues": 1,
+    "issues": 0,
     "private": 0,
-    "score": 5,
+    "score": 0,
     "multiplier": 1,
     "rankDelta": -2
    },
@@ -41,10 +41,9 @@
     "private": 35,
     "score": 47,
     "multiplier": 1,
-    "rankDelta": -1
+    "rankDelta": 0
    },
    "heat": [
-    0,
     4,
     10,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -138,29 +138,28 @@
    "streak": 0,
    "longestStreak": 4,
    "week": {
-    "commits": 19,
+    "commits": 17,
     "openedPRs": 3,
     "mergedPRs": 3,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 40,
+    "score": 38,
     "multiplier": 1,
     "rankDelta": 1
    },
    "month": {
-    "commits": 22,
-    "openedPRs": 4,
-    "mergedPRs": 4,
+    "commits": 20,
+    "openedPRs": 3,
+    "mergedPRs": 3,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 50,
+    "score": 41,
     "multiplier": 1,
-    "rankDelta": 2
+    "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     7,
     3,
     0,
+    0,
     0
    ]
   },
@@ -266,17 +266,16 @@
    },
    "month": {
     "commits": 3,
-    "openedPRs": 1,
+    "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 5,
+    "score": 3,
     "multiplier": 1,
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -382,17 +382,16 @@
    },
    "month": {
     "commits": 22,
-    "openedPRs": 2,
+    "openedPRs": 1,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 28,
+    "score": 25,
     "multiplier": 1.06,
     "rankDelta": -1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,7 +474,8 @@
     0,
     3,
     2,
-    1
+    1,
+    0
    ]
   }
  ]
