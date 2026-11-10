@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T06:22:27.808Z",
+ "updatedAt": "2026-11-10T03:33:44.453Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -38,13 +38,12 @@
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
-    "private": 35,
-    "score": 47,
+    "private": 33,
+    "score": 45,
     "multiplier": 1,
     "rankDelta": 0
    },
    "heat": [
-    10,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -135,17 +135,17 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 1,
+   "streak": 0,
    "longestStreak": 4,
    "week": {
-    "commits": 19,
-    "openedPRs": 3,
-    "mergedPRs": 3,
+    "commits": 17,
+    "openedPRs": 1,
+    "mergedPRs": 1,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 41,
-    "multiplier": 1.02,
+    "score": 24,
+    "multiplier": 1,
     "rankDelta": 0
    },
    "month": {
@@ -155,12 +155,11 @@
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 44,
-    "multiplier": 1.02,
+    "score": 43,
+    "multiplier": 1,
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     0,
     0,
     3,
+    0,
     0
    ]
   },
@@ -276,7 +276,6 @@
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -367,17 +367,17 @@
    "name": "Luke Vang",
    "avatar": "https://avatars.githubusercontent.com/u/326643588?v=4",
    "url": "https://github.com/Luke-V-Stars",
-   "streak": 4,
+   "streak": 0,
    "longestStreak": 4,
    "week": {
-    "commits": 19,
+    "commits": 17,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 21,
-    "multiplier": 1.08,
+    "score": 17,
+    "multiplier": 1,
     "rankDelta": 1
    },
    "month": {
@@ -387,12 +387,11 @@
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 29,
-    "multiplier": 1.08,
+    "score": 27,
+    "multiplier": 1,
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,6 +474,7 @@
     2,
     2,
     1,
+    0,
     0
    ]
   }
