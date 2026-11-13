@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T06:41:32.856Z",
+ "updatedAt": "2026-11-13T23:31:19.234Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -251,28 +251,28 @@
    "name": "Ventura Perez Del Castillo",
    "avatar": "https://avatars.githubusercontent.com/u/326585799?v=4",
    "url": "https://github.com/vperez-stars",
-   "streak": 0,
+   "streak": 1,
    "longestStreak": 2,
    "week": {
-    "commits": 12,
+    "commits": 14,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 12,
-    "multiplier": 1,
+    "score": 14,
+    "multiplier": 1.02,
     "rankDelta": 3
    },
    "month": {
-    "commits": 15,
+    "commits": 17,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 15,
-    "multiplier": 1,
+    "score": 17,
+    "multiplier": 1.02,
     "rankDelta": 0
    },
    "heat": [
@@ -359,7 +359,7 @@
     12,
     0,
     0,
-    0
+    2
    ]
   },
   {
