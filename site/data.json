@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T06:18:22.929Z",
+ "updatedAt": "2026-11-15T06:25:57.628Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -38,13 +38,12 @@
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
-    "private": 31,
-    "score": 43,
+    "private": 26,
+    "score": 38,
     "multiplier": 1,
-    "rankDelta": 0
+    "rankDelta": -1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -157,10 +157,9 @@
     "private": 0,
     "score": 49,
     "multiplier": 1,
-    "rankDelta": 0
+    "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -251,7 +251,7 @@
    "name": "Ventura Perez Del Castillo",
    "avatar": "https://avatars.githubusercontent.com/u/326585799?v=4",
    "url": "https://github.com/vperez-stars",
-   "streak": 1,
+   "streak": 0,
    "longestStreak": 2,
    "week": {
     "commits": 14,
@@ -261,22 +261,21 @@
     "issues": 0,
     "private": 0,
     "score": 14,
-    "multiplier": 1.02,
+    "multiplier": 1,
     "rankDelta": 3
    },
    "month": {
-    "commits": 17,
+    "commits": 14,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 17,
-    "multiplier": 1.02,
+    "score": 14,
+    "multiplier": 1,
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     0,
     2,
+    0,
     0
    ]
   },
@@ -370,13 +370,13 @@
    "streak": 0,
    "longestStreak": 4,
    "week": {
-    "commits": 3,
+    "commits": 1,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 3,
+    "score": 1,
     "multiplier": 1,
     "rankDelta": -1
    },
@@ -392,7 +392,6 @@
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -470,6 +469,7 @@
     2,
     2,
     1,
+    0,
     0,
     0,
     0,
