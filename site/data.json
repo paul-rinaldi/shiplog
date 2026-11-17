@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T06:24:17.545Z",
+ "updatedAt": "2026-11-17T03:50:50.019Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -30,7 +30,7 @@
     "private": 0,
     "score": 0,
     "multiplier": 1,
-    "rankDelta": -1
+    "rankDelta": 1
    },
    "month": {
     "commits": 9,
@@ -41,10 +41,9 @@
     "private": 26,
     "score": 38,
     "multiplier": 1,
-    "rankDelta": -1
+    "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -138,15 +138,15 @@
    "streak": 0,
    "longestStreak": 4,
    "week": {
-    "commits": 6,
+    "commits": 0,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 6,
+    "score": 0,
     "multiplier": 1,
-    "rankDelta": -1
+    "rankDelta": -3
    },
    "month": {
     "commits": 27,
@@ -157,10 +157,9 @@
     "private": 0,
     "score": 48,
     "multiplier": 1,
-    "rankDelta": 1
+    "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -251,32 +251,31 @@
    "name": "Ventura Perez Del Castillo",
    "avatar": "https://avatars.githubusercontent.com/u/326585799?v=4",
    "url": "https://github.com/vperez-stars",
-   "streak": 0,
+   "streak": 1,
    "longestStreak": 2,
    "week": {
-    "commits": 14,
+    "commits": 22,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 14,
-    "multiplier": 1,
-    "rankDelta": 3
+    "score": 22,
+    "multiplier": 1.02,
+    "rankDelta": 2
    },
    "month": {
-    "commits": 14,
+    "commits": 23,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 14,
-    "multiplier": 1,
+    "score": 23,
+    "multiplier": 1.02,
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     2,
     0,
     0,
+    9,
     0
    ]
   },
@@ -378,7 +378,7 @@
     "private": 0,
     "score": 4,
     "multiplier": 1.04,
-    "rankDelta": -1
+    "rankDelta": 0
    },
    "month": {
     "commits": 28,
@@ -392,7 +392,6 @@
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,7 +474,8 @@
     0,
     0,
     3,
-    1
+    1,
+    0
    ]
   }
  ]
