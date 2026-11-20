@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T11:34:26.856Z",
+ "updatedAt": "2026-11-20T20:13:50.038Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -19,7 +19,7 @@
    "name": "Paul",
    "avatar": "https://avatars.githubusercontent.com/u/9328123?u=8ebffba57d12dc983a17f19cb51e549150645f55&v=4",
    "url": "https://github.com/paul-rinaldi",
-   "streak": 2,
+   "streak": 3,
    "longestStreak": 7,
    "week": {
     "commits": 8,
@@ -27,9 +27,9 @@
     "mergedPRs": 1,
     "reviews": 0,
     "issues": 0,
-    "private": 6,
-    "score": 24,
-    "multiplier": 1.04,
+    "private": 13,
+    "score": 32,
+    "multiplier": 1.06,
     "rankDelta": 2
    },
    "month": {
@@ -38,9 +38,9 @@
     "mergedPRs": 1,
     "reviews": 0,
     "issues": 1,
-    "private": 19,
-    "score": 50,
-    "multiplier": 1.04,
+    "private": 26,
+    "score": 58,
+    "multiplier": 1.06,
     "rankDelta": -2
    },
    "heat": [
@@ -126,8 +126,8 @@
     0,
     0,
     2,
-    15,
-    0
+    16,
+    6
    ]
   },
   {
@@ -146,7 +146,7 @@
     "private": 0,
     "score": 0,
     "multiplier": 1,
-    "rankDelta": -3
+    "rankDelta": -4
    },
    "month": {
     "commits": 27,
@@ -262,7 +262,7 @@
     "private": 0,
     "score": 29,
     "multiplier": 1,
-    "rankDelta": 0
+    "rankDelta": -2
    },
    "month": {
     "commits": 101,
@@ -483,28 +483,28 @@
    "name": "0xgmcarl",
    "avatar": "https://avatars.githubusercontent.com/u/126638250?u=78ec2caf5d75805afd2858cb6a59903beaa051b7&v=4",
    "url": "https://github.com/crafty-arl",
-   "streak": 0,
+   "streak": 1,
    "longestStreak": 5,
    "week": {
     "commits": 0,
-    "openedPRs": 0,
+    "openedPRs": 1,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 0,
-    "multiplier": 1,
+    "score": 2,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "month": {
     "commits": 0,
-    "openedPRs": 0,
+    "openedPRs": 1,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 2,
     "private": 0,
-    "score": 2,
-    "multiplier": 1,
+    "score": 4,
+    "multiplier": 1.02,
     "rankDelta": null
    },
    "heat": [
@@ -591,7 +591,7 @@
     0,
     0,
     0,
-    0
+    2
    ]
   },
   {
@@ -599,7 +599,7 @@
    "name": "Avery Benjamin",
    "avatar": "https://avatars.githubusercontent.com/u/71682867?u=0ed52f7b72b4162f18d7b08604c1b4de26df8507&v=4",
    "url": "https://github.com/Akiisqt",
-   "streak": 3,
+   "streak": 4,
    "longestStreak": 13,
    "week": {
     "commits": 0,
@@ -607,9 +607,9 @@
     "mergedPRs": 1,
     "reviews": 0,
     "issues": 0,
-    "private": 11,
-    "score": 21,
-    "multiplier": 1.06,
+    "private": 104,
+    "score": 122,
+    "multiplier": 1.08,
     "rankDelta": null
    },
    "month": {
@@ -618,9 +618,9 @@
     "mergedPRs": 17,
     "reviews": 0,
     "issues": 3,
-    "private": 53,
-    "score": 301,
-    "multiplier": 1.06,
+    "private": 146,
+    "score": 407,
+    "multiplier": 1.08,
     "rankDelta": null
    },
    "heat": [
@@ -707,7 +707,7 @@
     3,
     1,
     6,
-    0
+    93
    ]
   },
   {
