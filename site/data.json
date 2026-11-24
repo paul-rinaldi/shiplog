@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T13:39:19.716Z",
+ "updatedAt": "2026-11-24T23:52:58.774Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -30,7 +30,7 @@
     "private": 14,
     "score": 31,
     "multiplier": 1,
-    "rankDelta": 1
+    "rankDelta": 0
    },
    "month": {
     "commits": 17,
@@ -135,29 +135,29 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 1,
+   "streak": 2,
    "longestStreak": 4,
    "week": {
-    "commits": 3,
-    "openedPRs": 2,
-    "mergedPRs": 2,
-    "reviews": 0,
-    "issues": 4,
-    "private": 0,
-    "score": 21,
-    "multiplier": 1.02,
-    "rankDelta": 1
-   },
-   "month": {
-    "commits": 30,
+    "commits": 8,
     "openedPRs": 5,
     "mergedPRs": 5,
     "reviews": 0,
     "issues": 4,
     "private": 0,
-    "score": 70,
-    "multiplier": 1.02,
-    "rankDelta": -2
+    "score": 49,
+    "multiplier": 1.04,
+    "rankDelta": 2
+   },
+   "month": {
+    "commits": 35,
+    "openedPRs": 8,
+    "mergedPRs": 8,
+    "reviews": 0,
+    "issues": 4,
+    "private": 0,
+    "score": 99,
+    "multiplier": 1.04,
+    "rankDelta": -1
    },
    "heat": [
     0,
@@ -243,7 +243,7 @@
     0,
     0,
     9,
-    0
+    8
    ]
   },
   {
@@ -251,29 +251,29 @@
    "name": "Luke Vang",
    "avatar": "https://avatars.githubusercontent.com/u/326643588?v=4",
    "url": "https://github.com/Luke-V-Stars",
-   "streak": 1,
+   "streak": 2,
    "longestStreak": 5,
    "week": {
-    "commits": 8,
+    "commits": 12,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 8,
-    "multiplier": 1.02,
+    "score": 12,
+    "multiplier": 1.04,
     "rankDelta": -2
    },
    "month": {
-    "commits": 46,
+    "commits": 50,
     "openedPRs": 4,
     "mergedPRs": 4,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 75,
-    "multiplier": 1.02,
-    "rankDelta": 1
+    "score": 81,
+    "multiplier": 1.04,
+    "rankDelta": 0
    },
    "heat": [
     0,
@@ -359,7 +359,7 @@
     0,
     0,
     8,
-    0
+    4
    ]
   },
   {
