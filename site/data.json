@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T23:52:58.774Z",
+ "updatedAt": "2026-11-25T08:28:57.494Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -44,7 +44,6 @@
     "rankDelta": -2
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -160,7 +160,6 @@
     "rankDelta": -1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,7 +242,8 @@
     0,
     0,
     9,
-    8
+    8,
+    0
    ]
   },
   {
@@ -276,7 +276,6 @@
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,7 +358,8 @@
     0,
     0,
     8,
-    4
+    4,
+    0
    ]
   },
   {
@@ -392,7 +392,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,6 +474,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -483,7 +483,7 @@
    "name": "Avery Benjamin",
    "avatar": "https://avatars.githubusercontent.com/u/71682867?u=0ed52f7b72b4162f18d7b08604c1b4de26df8507&v=4",
    "url": "https://github.com/Akiisqt",
-   "streak": 7,
+   "streak": 8,
    "longestStreak": 13,
    "week": {
     "commits": 154,
@@ -491,24 +491,23 @@
     "mergedPRs": 24,
     "reviews": 57,
     "issues": 56,
-    "private": 12,
-    "score": 640,
-    "multiplier": 1.14,
+    "private": 10,
+    "score": 648,
+    "multiplier": 1.16,
     "rankDelta": null
    },
    "month": {
-    "commits": 239,
+    "commits": 225,
     "openedPRs": 46,
     "mergedPRs": 41,
     "reviews": 57,
     "issues": 59,
-    "private": 47,
-    "score": 927,
-    "multiplier": 1.14,
+    "private": 48,
+    "score": 928,
+    "multiplier": 1.16,
     "rankDelta": null
    },
    "heat": [
-    8,
     14,
     3,
     0,
@@ -591,6 +590,7 @@
     129,
     16,
     9,
+    1,
     0
    ]
   },
@@ -624,7 +624,6 @@
     "rankDelta": null
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -700,6 +699,7 @@
     0,
     0,
     1,
+    0,
     0,
     0,
     0,
