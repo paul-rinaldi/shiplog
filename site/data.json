@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:28:57.494Z",
+ "updatedAt": "2026-11-26T03:32:51.096Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -22,15 +22,15 @@
    "streak": 0,
    "longestStreak": 7,
    "week": {
-    "commits": 8,
+    "commits": 7,
     "openedPRs": 2,
     "mergedPRs": 1,
     "reviews": 0,
     "issues": 0,
-    "private": 14,
-    "score": 31,
+    "private": 13,
+    "score": 29,
     "multiplier": 1,
-    "rankDelta": 0
+    "rankDelta": -2
    },
    "month": {
     "commits": 17,
@@ -44,7 +44,6 @@
     "rankDelta": -2
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -135,7 +135,7 @@
    "name": "Fernando Gamboa",
    "avatar": "https://avatars.githubusercontent.com/u/326639689?v=4",
    "url": "https://github.com/fgamboa-stars",
-   "streak": 2,
+   "streak": 0,
    "longestStreak": 4,
    "week": {
     "commits": 8,
@@ -144,9 +144,9 @@
     "reviews": 0,
     "issues": 4,
     "private": 0,
-    "score": 49,
-    "multiplier": 1.04,
-    "rankDelta": 2
+    "score": 47,
+    "multiplier": 1,
+    "rankDelta": 3
    },
    "month": {
     "commits": 35,
@@ -155,12 +155,11 @@
     "reviews": 0,
     "issues": 4,
     "private": 0,
-    "score": 99,
-    "multiplier": 1.04,
-    "rankDelta": -1
+    "score": 95,
+    "multiplier": 1,
+    "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     0,
     9,
     8,
+    0,
     0
    ]
   },
@@ -251,7 +251,7 @@
    "name": "Luke Vang",
    "avatar": "https://avatars.githubusercontent.com/u/326643588?v=4",
    "url": "https://github.com/Luke-V-Stars",
-   "streak": 2,
+   "streak": 0,
    "longestStreak": 5,
    "week": {
     "commits": 12,
@@ -261,22 +261,21 @@
     "issues": 0,
     "private": 0,
     "score": 12,
-    "multiplier": 1.04,
-    "rankDelta": -2
+    "multiplier": 1,
+    "rankDelta": 0
    },
    "month": {
-    "commits": 50,
-    "openedPRs": 4,
-    "mergedPRs": 4,
+    "commits": 43,
+    "openedPRs": 2,
+    "mergedPRs": 2,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 81,
-    "multiplier": 1.04,
-    "rankDelta": 0
+    "score": 57,
+    "multiplier": 1,
+    "rankDelta": 2
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -343,7 +342,7 @@
     2,
     2,
     1,
-    4,
+    5,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     0,
     8,
     4,
+    0,
     0
    ]
   },
@@ -378,7 +378,7 @@
     "private": 0,
     "score": 2,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": 1
    },
    "month": {
     "commits": 0,
@@ -389,10 +389,9 @@
     "private": 0,
     "score": 4,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,6 +474,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -483,7 +483,7 @@
    "name": "Avery Benjamin",
    "avatar": "https://avatars.githubusercontent.com/u/71682867?u=0ed52f7b72b4162f18d7b08604c1b4de26df8507&v=4",
    "url": "https://github.com/Akiisqt",
-   "streak": 8,
+   "streak": 9,
    "longestStreak": 13,
    "week": {
     "commits": 154,
@@ -492,23 +492,22 @@
     "reviews": 57,
     "issues": 56,
     "private": 10,
-    "score": 648,
-    "multiplier": 1.16,
-    "rankDelta": null
+    "score": 660,
+    "multiplier": 1.18,
+    "rankDelta": 1
    },
    "month": {
-    "commits": 225,
-    "openedPRs": 46,
-    "mergedPRs": 41,
+    "commits": 184,
+    "openedPRs": 31,
+    "mergedPRs": 33,
     "reviews": 57,
     "issues": 59,
-    "private": 48,
-    "score": 928,
-    "multiplier": 1.16,
-    "rankDelta": null
+    "private": 47,
+    "score": 812,
+    "multiplier": 1.18,
+    "rankDelta": 0
    },
    "heat": [
-    14,
     3,
     0,
     0,
@@ -591,6 +590,7 @@
     16,
     9,
     1,
+    1,
     0
    ]
   },
@@ -610,21 +610,20 @@
     "private": 0,
     "score": 0,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": 1
    },
    "month": {
-    "commits": 20,
+    "commits": 5,
     "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 1,
     "private": 0,
-    "score": 21,
+    "score": 6,
     "multiplier": 1,
-    "rankDelta": null
+    "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     1,
@@ -699,6 +698,7 @@
     0,
     0,
     1,
+    0,
     0,
     0,
     0,
