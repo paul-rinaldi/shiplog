@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T16:52:03.542Z",
+ "updatedAt": "2026-11-27T01:43:33.726Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -22,13 +22,13 @@
    "streak": 0,
    "longestStreak": 7,
    "week": {
-    "commits": 7,
-    "openedPRs": 2,
-    "mergedPRs": 1,
+    "commits": 0,
+    "openedPRs": 0,
+    "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
-    "private": 13,
-    "score": 29,
+    "private": 7,
+    "score": 7,
     "multiplier": 1,
     "rankDelta": -2
    },
@@ -41,10 +41,9 @@
     "private": 14,
     "score": 43,
     "multiplier": 1,
-    "rankDelta": -2
+    "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,6 +126,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -146,7 +146,7 @@
     "private": 0,
     "score": 47,
     "multiplier": 1,
-    "rankDelta": 3
+    "rankDelta": 4
    },
    "month": {
     "commits": 35,
@@ -157,10 +157,9 @@
     "private": 0,
     "score": 95,
     "multiplier": 1,
-    "rankDelta": 1
+    "rankDelta": 3
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -243,6 +242,7 @@
     9,
     8,
     0,
+    0,
     0
    ]
   },
@@ -262,21 +262,20 @@
     "private": 0,
     "score": 12,
     "multiplier": 1,
-    "rankDelta": 0
+    "rankDelta": 1
    },
    "month": {
-    "commits": 43,
+    "commits": 42,
     "openedPRs": 2,
     "mergedPRs": 2,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 57,
+    "score": 56,
     "multiplier": 1,
-    "rankDelta": 2
+    "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -359,6 +358,7 @@
     8,
     4,
     0,
+    0,
     0
    ]
   },
@@ -378,7 +378,7 @@
     "private": 0,
     "score": 2,
     "multiplier": 1,
-    "rankDelta": 1
+    "rankDelta": 0
    },
    "month": {
     "commits": 0,
@@ -392,7 +392,6 @@
     "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,6 +474,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -491,24 +491,23 @@
     "mergedPRs": 25,
     "reviews": 57,
     "issues": 56,
-    "private": 10,
-    "score": 678,
+    "private": 4,
+    "score": 671,
     "multiplier": 1.2,
-    "rankDelta": 1
+    "rankDelta": 0
    },
    "month": {
-    "commits": 185,
-    "openedPRs": 31,
-    "mergedPRs": 34,
+    "commits": 163,
+    "openedPRs": 28,
+    "mergedPRs": 27,
     "reviews": 57,
     "issues": 59,
-    "private": 47,
-    "score": 833,
+    "private": 41,
+    "score": 750,
     "multiplier": 1.2,
     "rankDelta": 0
    },
    "heat": [
-    3,
     0,
     0,
     0,
@@ -591,7 +590,8 @@
     9,
     1,
     1,
-    1
+    1,
+    0
    ]
   },
   {
@@ -624,7 +624,6 @@
     "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     1,
     1,
@@ -698,6 +697,7 @@
     0,
     0,
     1,
+    0,
     0,
     0,
     0,
