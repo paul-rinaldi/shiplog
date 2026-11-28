@@ -44,6 +44,14 @@ jobs:
           MESSAGE: ${{ steps.join.outputs.message }}
         run: |
           branch="join/$LOGIN"
+          # Double-submitted form: a join PR for this person is already open.
+          # Close this issue as a duplicate instead of failing on gh pr create.
+          existing=$(gh pr list --head "$branch" --state open --json url --jq '.[0].url // empty')
+          if [ -n "$existing" ]; then
+            gh issue close "$ISSUE" --reason "not planned" \
+              --comment "@$LOGIN already has a join request waiting on a maintainer: $existing"
+            exit 0
+          fi
           git config user.name  "shiplog-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -c "$branch"
