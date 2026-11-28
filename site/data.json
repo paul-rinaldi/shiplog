@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T21:16:16.206Z",
+ "updatedAt": "2026-11-28T03:20:29.192Z",
  "title": "SHIPLOG",
  "tagline": "who's actually shipping",
  "repo": "paul-rinaldi/shiplog",
@@ -27,8 +27,8 @@
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
-    "private": 8,
-    "score": 9,
+    "private": 1,
+    "score": 2,
     "multiplier": 1.02,
     "rankDelta": -2
    },
@@ -44,7 +44,6 @@
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -127,7 +126,8 @@
     0,
     0,
     0,
-    2
+    2,
+    0
    ]
   },
   {
@@ -160,7 +160,6 @@
     "rankDelta": 3
    },
    "heat": [
-    0,
     0,
     0,
     1,
@@ -243,6 +242,7 @@
     8,
     0,
     0,
+    0,
     0
    ]
   },
@@ -276,7 +276,6 @@
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     1,
@@ -359,6 +358,7 @@
     4,
     0,
     0,
+    0,
     0
    ]
   },
@@ -371,12 +371,12 @@
    "longestStreak": 5,
    "week": {
     "commits": 0,
-    "openedPRs": 1,
+    "openedPRs": 0,
     "mergedPRs": 0,
     "reviews": 0,
     "issues": 0,
     "private": 0,
-    "score": 2,
+    "score": 0,
     "multiplier": 1,
     "rankDelta": 0
    },
@@ -392,7 +392,6 @@
     "rankDelta": 1
    },
    "heat": [
-    0,
     0,
     0,
     0,
@@ -475,6 +474,7 @@
     0,
     0,
     0,
+    0,
     0
    ]
   },
@@ -483,32 +483,31 @@
    "name": "Avery Benjamin",
    "avatar": "https://avatars.githubusercontent.com/u/71682867?u=0ed52f7b72b4162f18d7b08604c1b4de26df8507&v=4",
    "url": "https://github.com/Akiisqt",
-   "streak": 10,
+   "streak": 0,
    "longestStreak": 13,
    "week": {
-    "commits": 155,
-    "openedPRs": 24,
-    "mergedPRs": 25,
-    "reviews": 57,
-    "issues": 56,
-    "private": 4,
-    "score": 671,
-    "multiplier": 1.2,
+    "commits": 120,
+    "openedPRs": 12,
+    "mergedPRs": 20,
+    "reviews": 15,
+    "issues": 8,
+    "private": 2,
+    "score": 299,
+    "multiplier": 1,
     "rankDelta": 0
    },
    "month": {
-    "commits": 163,
-    "openedPRs": 28,
-    "mergedPRs": 27,
+    "commits": 157,
+    "openedPRs": 27,
+    "mergedPRs": 26,
     "reviews": 57,
     "issues": 59,
     "private": 41,
-    "score": 750,
-    "multiplier": 1.2,
+    "score": 612,
+    "multiplier": 1,
     "rankDelta": 0
    },
    "heat": [
-    0,
     0,
     0,
     2,
@@ -591,6 +590,7 @@
     1,
     1,
     1,
+    0,
     0
    ]
   },
@@ -624,7 +624,6 @@
     "rankDelta": 1
    },
    "heat": [
-    0,
     1,
     1,
     0,
@@ -697,6 +696,7 @@
     0,
     0,
     1,
+    0,
     0,
     0,
     0,
